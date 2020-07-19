@@ -1,0 +1,17 @@
+#i use google colab to run this code.
+#for install bio python
+
+!pip install biopython 
+
+#here is the code...
+
+from Bio import SeqIO
+
+fasta_sequences = SeqIO.parse(open("your file path"),'fasta')
+with open("your output file path", "a") as myfile:
+  i=0
+  for fasta in fasta_sequences:
+      name, sequence = fasta.id, str(fasta.seq)
+      print(name, sequence)
+      myfile.write(">"+ str(i) + '|1|training\n'  + sequence + '\n')
+      i+=1
