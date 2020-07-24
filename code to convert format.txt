@@ -13,5 +13,6 @@ with open("your output file path", "a") as myfile:
   for fasta in fasta_sequences:
       name, sequence = fasta.id, str(fasta.seq)
       print(name, sequence)
-      myfile.write(">"+ str(i) + '|1|training\n'  + sequence + '\n')
+      if(name.find("-") is 0): myfile.write(">"+ str(i) + '|0|training\n'  + sequence + '\n')
+      elif(name.find("+") is 0): myfile.write(">"+ str(i) + '|1|training\n'  + sequence + '\n')    
       i+=1
