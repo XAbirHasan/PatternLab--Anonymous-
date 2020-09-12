@@ -1,0 +1,64 @@
+c :	 1 	Train Accuracy :	 0.9774533817496283 	Val Accuracy :	 0.5441659404648586 	Test Accuracy :	 0.513
+c :	 10 	Train Accuracy :	 1.0 	Val Accuracy :	 0.5812277949831745 	Test Accuracy :	 0.5305
+c :	 20 	Train Accuracy :	 1.0 	Val Accuracy :	 0.581700384775235 	Test Accuracy :	 0.5305
+c :	 30 	Train Accuracy :	 1.0 	Val Accuracy :	 0.581700384775235 	Test Accuracy :	 0.5305
+c :	 40 	Train Accuracy :	 1.0 	Val Accuracy :	 0.581700384775235 	Test Accuracy :	 0.5305
+c :	 50 	Train Accuracy :	 1.0 	Val Accuracy :	 0.581700384775235 	Test Accuracy :	 0.5305
+c :	 60 	Train Accuracy :	 1.0 	Val Accuracy :	 0.581700384775235 	Test Accuracy :	 0.5305
+c :	 70 	Train Accuracy :	 1.0 	Val Accuracy :	 0.581700384775235 	Test Accuracy :	 0.5305
+c :	 80 	Train Accuracy :	 1.0 	Val Accuracy :	 0.581700384775235 	Test Accuracy :	 0.5305
+c :	 90 	Train Accuracy :	 1.0 	Val Accuracy :	 0.581700384775235 	Test Accuracy :	 0.5305
+
+
+c :	 0.5 	Train Accuracy :	 0.9325251830280001 	Val Accuracy :	 0.5361227079953702 	Test Accuracy :	 0.545
+c :	 0.9 	Train Accuracy :	 0.9723720865050985 	Val Accuracy :	 0.5425574369768553 	Test Accuracy :	 0.521
+c :	 1.2 	Train Accuracy :	 0.9845671537592153 	Val Accuracy :	 0.5468145436994731 	Test Accuracy :	 0.5095
+c :	 2.2 	Train Accuracy :	 0.9974002870336385 	Val Accuracy :	 0.5540971635674607 	Test Accuracy :	 0.509
+c :	 3 	Train Accuracy :	 0.998960106993745 	Val Accuracy :	 0.5658205186645037 	Test Accuracy :	 0.518
+c :	 4.5 	Train Accuracy :	 0.999787289915453 	Val Accuracy :	 0.5737604293751983 	Test Accuracy :	 0.5235
+c :	 5.5 	Train Accuracy :	 0.9999054597021981 	Val Accuracy :	 0.5783923902988375 	Test Accuracy :	 0.5285
+c :	 6.5 	Train Accuracy :	 0.9999527298510991 	Val Accuracy :	 0.5797155970272649 	Test Accuracy :	 0.5305
+c :	 8 	Train Accuracy :	 0.9999763649255495 	Val Accuracy :	 0.5811333217141044 	Test Accuracy :	 0.5305
+c :	 9 	Train Accuracy :	 1.0 	Val Accuracy :	 0.5813223576309287 	Test Accuracy :	 0.53
+
+
+
+c :	 0.05 	Train Accuracy :	 0.7027338014491208 	Val Accuracy :	 0.2565326433298923 	Test Accuracy :	 0.5025
+c :	 0.1 	Train Accuracy :	 0.7820944049609583 	Val Accuracy :	 0.4196368990959346 	Test Accuracy :	 0.578
+c :	 0.15 	Train Accuracy :	 0.8178997721476049 	Val Accuracy :	 0.4686132897165355 	Test Accuracy :	 0.584
+c :	 0.2 	Train Accuracy :	 0.8444881221811865 	Val Accuracy :	 0.493479109967064 	Test Accuracy :	 0.5835
+c :	 0.25 	Train Accuracy :	 0.8666569087852853 	Val Accuracy :	 0.508606988519308 	Test Accuracy :	 0.5775
+c :	 0.3 	Train Accuracy :	 0.8853751337065738 	Val Accuracy :	 0.5201420674183413 	Test Accuracy :	 0.571
+c :	 0.35 	Train Accuracy :	 0.9000519256692966 	Val Accuracy :	 0.5242083953397955 	Test Accuracy :	 0.567
+c :	 0.4 	Train Accuracy :	 0.9121289907018897 	Val Accuracy :	 0.5294091175195628 	Test Accuracy :	 0.566
+c :	 0.45 	Train Accuracy :	 0.9232369953399833 	Val Accuracy :	 0.5324348541116429 	Test Accuracy :	 0.555
+
+
+n_estimators :	 50 	Train Accuracy :	 0.9860948021504843 	Val Accuracy :	 0.024421620082136018 	Test Accuracy :	 -0.7061711999999998
+n_estimators :	 100 	Train Accuracy :	 0.9872331434781682 	Val Accuracy :	 0.024345325117946556 	Test Accuracy :	 -0.6989363999999998
+n_estimators :	 150 	Train Accuracy :	 0.9875126306228943 	Val Accuracy :	 0.024172260481085138 	Test Accuracy :	 -0.7001814222222225
+n_estimators :	 200 	Train Accuracy :	 0.9877622703811472 	Val Accuracy :	 0.02397129831877596 	Test Accuracy :	 -0.70232475
+n_estimators :	 250 	Train Accuracy :	 0.9878324871980736 	Val Accuracy :	 0.025107231280648023 	Test Accuracy :	 -0.6994483199999999
+
+
+n_estimators :	 400 	Train Accuracy :	 0.9879122062529498 	Val Accuracy :	 0.02621517555967101 	Test Accuracy :	 -0.69965755
+
+n_estimators :	 500 	Train Accuracy :	 0.9879756073254041 	Val Accuracy :	 0.026654149864878508 	Test Accuracy :	 -0.6982756320000001
+
+n_estimators :	 600 	Train Accuracy :	 0.9880024016225579 	Val Accuracy :	 0.026989458965103873 	Test Accuracy :	 -0.6984067333333335
+
+n_estimators :	 700 	Train Accuracy :	 0.9880348011702098 	Val Accuracy :	 0.02726660391304554 	Test Accuracy :	 -0.6978936489795919
+n_estimators :	 800 	Train Accuracy :	 0.9880549990491554 	Val Accuracy :	 0.02764906211948224 	Test Accuracy :	 -0.6977965500000001
+n_estimators :	 1000 	Train Accuracy :	 0.9880996759659444 	Val Accuracy :	 0.028371720019332435 	Test Accuracy :	 -0.6985788619999997
+n_estimators :	 1200 	Train Accuracy :	 0.988110804605793 	Val Accuracy :	 0.028384980060584077 	Test Accuracy :	 -0.6996301444444446
+
+
+n_estimators :	 200
+
+max_depth :	 1 	Train Accuracy :	 0.13811024349899934 	Val Accuracy :	 -0.02672013535133111 	Test Accuracy :	 -0.259259759814912
+max_depth :	 5 	Train Accuracy :	 0.7496940062853736 	Val Accuracy :	 -0.04408768739486137 	Test Accuracy :	 -0.6979616589667557
+max_depth :	 10 	Train Accuracy :	 0.961594147706456 	Val Accuracy :	 0.006326497243737394 	Test Accuracy :	 -0.6957482950119838
+max_depth :	 15 	Train Accuracy :	 0.9859701105010211 	Val Accuracy :	 0.023751241822069957 	Test Accuracy :	 -0.7005105091746597
+max_depth :	 20 	Train Accuracy :	 0.9876333888605926 	Val Accuracy :	 0.023952604035125467 	Test Accuracy :	 -0.7027844707901285
+max_depth :	 30 	Train Accuracy :	 0.9877622703811472 	Val Accuracy :	 0.02397129831877596 	Test Accuracy :	 -0.70232475
+

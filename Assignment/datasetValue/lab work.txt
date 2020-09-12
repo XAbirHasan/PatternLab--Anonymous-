@@ -1,0 +1,9 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
