@@ -1,0 +1,8 @@
+total 6 features:
+
+1.Kmer ( size 1 also name as NAC),
+2.Kmer ( size 2 also name as DNC),
+3.Kmer ( size 3 also name as TNC),
+4.ENAC ( length 5) ,
+5.PCPseDNC (lamada = 2 , weight = 0.1 , and Di-RNA physicochemical indices : all selected)
+6.PseKNC
